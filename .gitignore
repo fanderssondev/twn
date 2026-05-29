@@ -1,0 +1,26 @@
+# Node
+node_modules/
+
+# Bootcamp downloaded artifacts (re-downloadable via scripts)
+*.tgz
+2-opertaing_systems_and_linux_basics/7-node_app_check_status/package/
+2-opertaing_systems_and_linux_basics/*/package/
+
+# Logs
+logs/
+*.log
+
+# Env
+.env
+.env.local
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
