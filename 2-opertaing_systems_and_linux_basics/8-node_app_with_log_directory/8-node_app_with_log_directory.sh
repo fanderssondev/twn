@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
+set -euo pipefail
 
+
+if [[ $# -ne 2 ]]; then
+    echo "Incorrect args"
+    echo "Usage: $0 --log-dir </path/to/dir/>"
+    exit 1
+fi
+
+export LOG_DIR="$2"
 
 printf "Downloading node project...\n\n"
 curl -OL#C - https://node-envvars-artifact.s3.eu-west-2.amazonaws.com/bootcamp-node-envvars-project-1.0.0.tgz
