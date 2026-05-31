@@ -32,7 +32,7 @@ By TechWorld with Nana
 ---
 ## Setup a Linux Virtual Machine (VM Part 2)
 - [x] Watched video
-- [ ] Demo executed
+- [x] Demo executed
 - [x] Setup VirtualBox
 - [x] Setup Linux Virtual Machine
 
