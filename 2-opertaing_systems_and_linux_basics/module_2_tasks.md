@@ -37,33 +37,33 @@ By TechWorld with Nana
 - [x] Setup Linux Virtual Machine
 
 **Useful Links:**
-● Download VirtualBox: https://www.virtualbox.org/wiki/Downloads
-● Download Ubuntu: https://ubuntu.com/download/desktop
+- Download VirtualBox: https://www.virtualbox.org/wiki/Downloads
+- Download Ubuntu: https://ubuntu.com/download/desktop
 
 ---
 ## Linux File System
-- [ ] Watched video
+- [x] Watched video
 
 ---
 ## Introduction to Command Line (CLI Part 1)
-- [ ] Watched video
+- [x] Watched video
 
 ---
 ## Basic Linux Commands (CLI Part 2)
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 Useful Links:
-● Cheat Sheet: https://cheatography.com/davechild/cheat-sheets/linux-command-line/
-● Cheat Sheet: https://www.guru99.com/linux-commands-cheat-sheet.html
+- Cheat Sheet: https://cheatography.com/davechild/cheat-sheets/linux-command-line/
+- Cheat Sheet: https://www.guru99.com/linux-commands-cheat-sheet.html
 
 ---
 ## Package Manager - Installing Software on Linux
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 Useful Links:
-● Snap Package Manager: https://snapcraft.io/
+- Snap Package Manager: https://snapcraft.io/
 
 ---
 ## Vi & Vim Text Editor
