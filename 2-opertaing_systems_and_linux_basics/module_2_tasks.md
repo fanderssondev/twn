@@ -100,8 +100,8 @@ Useful Links:
 
 ---
 ## Shell Scripting Part 3 - Basic Concepts & Syntax
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 ## Environment Variables
