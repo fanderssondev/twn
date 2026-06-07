@@ -67,36 +67,36 @@ Useful Links:
 
 ---
 ## Vi & Vim Text Editor
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 Useful Links:
 - Cheat Sheet: https://vim.rtorr.com/
 
 ---
 ## Users & Permissions - Part 1
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 ## Users & Permissions - Part 2
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 ## Basic Linux Commands - Pipes & Redirects (CLI Part 3)
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 ## Shell Scripting Part 1 - Intro to Shell Scripting
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 ## Shell Scripting Part 2 - Basic Concepts & Syntax
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 ## Shell Scripting Part 3 - Basic Concepts & Syntax
