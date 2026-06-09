@@ -105,12 +105,12 @@ Useful Links:
 
 ---
 ## Environment Variables
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 ## Networking
-- [ ] Watched video
+- [x] Watched video
 
 ---
 ## SSH - Secure Shell
