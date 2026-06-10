@@ -114,10 +114,10 @@ Useful Links:
 
 ---
 ## SSH - Secure Shell
-- [ ] Watched video
-- [ ] Demo executed
-- [ ] Create remote server on DigitalOcean
-- [ ] Generate SSH Key Pair on your computer
-- [ ] Copy Bash Script via SCP
-- [ ] Execute Bash Script on the remote server
-- [ ] Don't forget to delete Droplet when you are done!
+- [x] Watched video
+- [x] Demo executed
+- [x] Create remote server on DigitalOcean
+- [x] Generate SSH Key Pair on your computer
+- [x] Copy Bash Script via SCP
+- [x] Execute Bash Script on the remote server
+- [x] Don't forget to delete Droplet when you are done!
