@@ -1,4 +1,4 @@
-v# 02 - Linux Checklist
+# 02 - Linux Checklist
 By TechWorld with Nana
 
 ---
