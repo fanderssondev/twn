@@ -3,34 +3,37 @@ By TechWorld with Nana
 
 ---
 ## Video Overview
-- ★ [Introduction to Version Control](#introduction-to-version-control)
-- ★ [Basic concepts of Git](#basic-concepts-of-git)
-- ★ [Setup Git Repository](#setup-git-repository)
-- ★ [Working with Git](#working-with-git)
-- ★ [Initialize a Git Repository locally](#initialize-a-git-repository-locally)
-- ★ [Concept of Branches](#concept-of-branches)
-- ★ [Merge Requests](#merge-requests)
-- ★ [Deleting Branches](#deleting-branches)
-- ★ [Avoiding Merge Commits (rebase)](#avoiding-merge-commits-rebase)
-- ★ [Resolving Merge Conflicts](#resolving-merge-conflicts)
-- ★ [Do not track certain files/folders - .gitignore](#do-not-track-certain-filesfolders---gitignore)
-- ★ [Save work-in-progress local changes (stash)](#save-work-in-progress-local-changes-stash)
-- ★ [Going back in history (git checkout, git log)](#going-back-in-history-git-checkout-git-log)
-- ★ [Undoing and changing commits (reset, revert, amend)](#undoing-and-changing-commits-reset-revert-amend)
-- ★ [Merging Branches](#merging-branches)
-- ★ [Git for DevOps](#git-for-devops)
+- ★ [01 - Introduction to Version Control](#01-introduction-to-version-control)
+- ★ [02 - Basic concepts of Git](#02-basic-concepts-of-git)
+- ★ [03 - Setup Git Repository](#03-setup-git-repository)
+- ★ [04 - Working with Git](#04-working-with-git)
+- ★ [05 - Initialize a Git Repository locally](#05-initialize-a-git-repository-locally)
+- ★ [06 - Concept of Branches](#06-concept-of-branches)
+- ★ [07 - Merge Requests](#07-merge-requests)
+- ★ [08 - Deleting Branches](#08-deleting-branches)
+- ★ [09 - Avoiding Merge Commits (rebase)](#09-avoiding-merge-commits-rebase)
+- ★ [10 - Resolving Merge Conflicts](#10-resolving-merge-conflicts)
+- ★ [11 - Do not track certain files/folders - .gitignore](#11-do-not-track-files-folders-gitignore)
+- ★ [12 - Save work-in-progress local changes (stash)](#12-save-work-in-progress-local-changes-stash)
+- ★ [13 - Going back in history (git checkout, git log)](#13-going-back-in-history-git-checkout-git-log)
+- ★ [14 - Undoing and changing commits (reset, revert, amend)](#14-undoing-and-changing-commits-reset-revert-amend)
+- ★ [15 - Merging Branches](#15-merging-branches)
+- ★ [16 - Git for DevOps](#16-git-for-devops)
 
 #### Check your progress... 1/3
 
-## Introduction to Version Control
+<a id="01-introduction-to-version-control"></a>
+## 01 - Introduction to Version Control
 - [x] Watched video
 
 ---
-## Basic concepts of Git
+<a id="02-basic-concepts-of-git"></a>
+## 02 - Basic concepts of Git
 - [x] Watched video
 
 ---
-## Setup Git Repository
+<a id="03-setup-git-repository"></a>
+## 03 - Setup Git Repository
 - [x] Watched video
 - [x] Demo executed
 - [x] Created a user account for GitLab or GitHub (if you haven’t already)
@@ -48,64 +51,75 @@ By TechWorld with Nana
 - Install Git Command Line: https://git-scm.com/downloads
 - Steps to create SSH Key Pair: https://docs.gitlab.com/ee/user/ssh#generate-an-ssh-key-pair
 
-## Working with Git
-- [ ] Watched video
-- [ ] Demo executed
+<a id="04-working-with-git"></a>
+## 04 - Working with Git
+- [x] Watched video
+- [x] Demo executed
 
 ---
 #### Check your progress... 2/3
 
-## Initialize a Git Repository locally
+<a id="05-initialize-a-git-repository-locally"></a>
+## 05 - Initialize a Git Repository locally
+- [x] Watched video
+- [x] Demo executed
+- [x] Created another project locally (which is NOT a git repository yet)
+- [x] Transformed project into a git repository with _git init_
+- [x] _git remote add origin ..._ ) and pushed to it
+
+---
+<a id="06-concept-of-branches"></a>
+## 06 - Concept of Branches
+- [x] Watched video
+- [x] Demo executed - create a branch locally and remotely
+
+---
+<a id="07-merge-requests"></a>
+## 07 - Merge Requests
+- [x] Watched video
+- [x] Demo executed - create a Merge Request
+
+---
+<a id="08-deleting-branches"></a>
+## 08 - Deleting Branches
+- [x] Watched video
+- [x] Demo executed - delete a branch remotely and locally
+
+---
+<a id="09-avoiding-merge-commits-rebase"></a>
+## 09 - Avoiding Merge Commits (rebase)
 - [ ] Watched video
 - [ ] Demo executed
-- [ ] Created another project locally (which is NOT a git repository yet)
-- [ ] Transformed project into a git repository with _git init_
-- [ ] _git remote add origin ..._ ) and pushed to it
 
 ---
-## Concept of Branches
-- [ ] Watched video
-- [ ] Demo executed - create a branch locally and remotely
-
----
-## Merge Requests
-- [ ] Watched video
-- [ ] Demo executed - create a Merge Request
-
----
-## Deleting Branches
-- [ ] Watched video
-- [ ] Demo executed - delete a branch remotely and locally
-
----
-## Avoiding Merge Commits (rebase)
-- [ ] Watched video
-- [ ] Demo executed
-
----
-## Resolving Merge Conflicts
+<a id="10-resolving-merge-conflicts"></a>
+## 10 - Resolving Merge Conflicts
 - [ ] Watched video
 - [ ] Demo executed
 
 ---
 #### Check your progress... 3/3
 
-## Do not track certain files/folders - .gitignore
+<a id="11-do-not-track-files-folders-gitignore"></a>
+## 11 - Do not track certain files/folders - .gitignore
 - [ ] Watched video
 - [ ] Demo executed
 
 ---
-## Save work-in-progress local changes (stash)
+<a id="12-save-work-in-progress-local-changes-stash"></a>
+## 12 - Save work-in-progress local changes (stash)
 - [ ] Watched video
 - [ ] Demo executed
 
 ---
-## Going back in history (git checkout, git log)
+<a id="13-going-back-in-history-git-checkout-git-log"></a>
+## 13 - Going back in history (git checkout, git log)
 - [ ] Watched video
 - [ ] **Demo executed**
 
 ---
-## Undoing and changing commits (reset, revert, amend)
+<a id="14-undoing-and-changing-commits-reset-revert-amend"></a>
+## 14 - Undoing and changing commits (reset, revert, amend)
 - [ ] Watched video
 - [ ] **Demo executed**
 - [ ] Used git reset
@@ -113,10 +127,12 @@ By TechWorld with Nana
 - [ ] Used git revert
 
 ---
-## Merging Branches
+<a id="15-merging-branches"></a>
+## 15 - Merging Branches
 - [ ] Watched video
 - [ ] Demo executed
 
 ---
-## Git for DevOps
+<a id="16-git-for-devops"></a>
+## 16 - Git for DevOps
 - [ ] Watched video
