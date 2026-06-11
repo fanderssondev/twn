@@ -1,8 +1,8 @@
-**03 - Checklist Version Control with Git** 
-By TechWorld with Nana 
+**03 - Checklist Version Control with Git**
+By TechWorld with Nana
 
 ---
-## Video Overview 
+## Video Overview
 - ★ [Introduction to Version Control](#introduction-to-version-control)
 - ★ [Basic concepts of Git](#basic-concepts-of-git)
 - ★ [Setup Git Repository](#setup-git-repository)
@@ -20,105 +20,103 @@ By TechWorld with Nana
 - ★ [Merging Branches](#merging-branches)
 - ★ [Git for DevOps](#git-for-devops)
 
-TECHWORLD WITH 
+#### Check your progress... 1/3
 
-#### Check your progress... 1/3 
+## Introduction to Version Control
+- [x] Watched video
 
-## Introduction to Version Control 
+---
+## Basic concepts of Git
+- [x] Watched video
+
+---
+## Setup Git Repository
+- [x] Watched video
+- [x] Demo executed
+- [x] Created a user account for GitLab or GitHub (if you haven’t already)
+- [x] Created your own git repository/project on GitLab or GitHub
+- [x] Installed a Git client (GUI or Command Line Tool)
+- [x] Customized your terminal to show Git information
+- [x] Created a SSH key pair (in case you don’t have one already)
+- [x] Added public ssh key to GitLab or GitHub
+- [x] address using “git config ..” command
+- [x] Cloned remote repository to your local machine
+
+---
+### Useful Links:
+- Git GUI - Installation Guides: https://www.git-scm.com/downloads/guis
+- Install Git Command Line: https://git-scm.com/downloads
+- Steps to create SSH Key Pair: https://docs.gitlab.com/ee/user/ssh#generate-an-ssh-key-pair
+
+## Working with Git
 - [ ] Watched video
+- [ ] Demo executed
 
 ---
-## Basic concepts of Git 
-- [ ] Watched video 
+#### Check your progress... 2/3
+
+## Initialize a Git Repository locally
+- [ ] Watched video
+- [ ] Demo executed
+- [ ] Created another project locally (which is NOT a git repository yet)
+- [ ] Transformed project into a git repository with _git init_
+- [ ] _git remote add origin ..._ ) and pushed to it
 
 ---
-## Setup Git Repository 
-- [ ] Watched video 
-- [ ] Demo executed 
-- [ ] Created a user account for GitLab or GitHub (if you haven’t already) 
-- [ ] Created your own git repository/project on GitLab or GitHub 
-- [ ] Installed a Git client (GUI or Command Line Tool) 
-- [ ] Customized your terminal to show Git information 
-- [ ] Created a SSH key pair (in case you don’t have one already) 
-- [ ] Added public ssh key to GitLab or GitHub 
-- [ ] address using “git config ..” command 
-- [ ] Cloned remote repository to your local machine 
+## Concept of Branches
+- [ ] Watched video
+- [ ] Demo executed - create a branch locally and remotely
 
 ---
-### Useful Links: 
-- Git GUI - Installation Guides: https://www.git-scm.com/downloads/guis 
-- Install Git Command Line: https://git-scm.com/downloads 
-- Steps to create SSH Key Pair: https://docs.gitlab.com/ee/user/ssh#generate-an-ssh-key-pair 
-
-## Working with Git 
-- [ ] Watched video 
-- [ ] Demo executed 
+## Merge Requests
+- [ ] Watched video
+- [ ] Demo executed - create a Merge Request
 
 ---
-#### Check your progress... 2/3 
-
-## Initialize a Git Repository locally 
-- [ ] Watched video 
-- [ ] Demo executed 
-- [ ] Created another project locally (which is NOT a git repository yet) 
-- [ ] Transformed project into a git repository with _git init_ 
-- [ ] _git remote add origin ..._ ) and pushed to it 
+## Deleting Branches
+- [ ] Watched video
+- [ ] Demo executed - delete a branch remotely and locally
 
 ---
-## Concept of Branches 
-- [ ] Watched video 
-- [ ] Demo executed - create a branch locally and remotely 
-
----
-## Merge Requests 
-- [ ] Watched video 
-- [ ] Demo executed - create a Merge Request 
-
----
-## Deleting Branches 
-- [ ] Watched video 
-- [ ] Demo executed - delete a branch remotely and locally 
-
----
-## Avoiding Merge Commits (rebase) 
-- [ ] Watched video 
-- [ ] Demo executed 
+## Avoiding Merge Commits (rebase)
+- [ ] Watched video
+- [ ] Demo executed
 
 ---
 ## Resolving Merge Conflicts
-- [ ] Watched video 
-- [ ] Demo executed 
+- [ ] Watched video
+- [ ] Demo executed
 
 ---
-#### Check your progress... 3/3 
+#### Check your progress... 3/3
 
 ## Do not track certain files/folders - .gitignore
-- [ ] Watched video 
-- [ ] Demo executed 
+- [ ] Watched video
+- [ ] Demo executed
 
 ---
-## Save work-in-progress local changes (stash) 
-- [ ] Watched video 
-- [ ] Demo executed 
+## Save work-in-progress local changes (stash)
+- [ ] Watched video
+- [ ] Demo executed
 
 ---
-## Going back in history (git checkout, git log) 
-- [ ] Watched video 
-- [ ] **Demo executed** 
+## Going back in history (git checkout, git log)
+- [ ] Watched video
+- [ ] **Demo executed**
 
 ---
-## Undoing and changing commits (reset, revert, amend) 
-- [ ] Watched video 
-- [ ] **Demo executed** 
-- [ ] Used git reset 
-- [ ] Used git commit --amend 
-- [ ] Used git revert 
+## Undoing and changing commits (reset, revert, amend)
+- [ ] Watched video
+- [ ] **Demo executed**
+- [ ] Used git reset
+- [ ] Used git commit --amend
+- [ ] Used git revert
 
 ---
-## Merging Branches 
-- [ ] Watched video 
-- [ ] Demo executed 
+## Merging Branches
+- [ ] Watched video
+- [ ] Demo executed
 
 ---
-## Git for DevOps 
-- [ ] Watched video 
+## Git for DevOps
+- [ ] Watched video
