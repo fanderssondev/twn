@@ -88,51 +88,52 @@ By TechWorld with Nana
 ---
 <a id="09-avoiding-merge-commits-rebase"></a>
 ## 09 - Avoiding Merge Commits (rebase)
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 <a id="10-resolving-merge-conflicts"></a>
 ## 10 - Resolving Merge Conflicts
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 #### Check your progress... 3/3
 
 <a id="11-do-not-track-files-folders-gitignore"></a>
 ## 11 - Do not track certain files/folders - .gitignore
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 <a id="12-save-work-in-progress-local-changes-stash"></a>
 ## 12 - Save work-in-progress local changes (stash)
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 <a id="13-going-back-in-history-git-checkout-git-log"></a>
 ## 13 - Going back in history (git checkout, git log)
-- [ ] Watched video
-- [ ] **Demo executed**
+- [x] Watched video
+- [x] **Demo executed**
 
 ---
 <a id="14-undoing-and-changing-commits-reset-revert-amend"></a>
 ## 14 - Undoing and changing commits (reset, revert, amend)
-- [ ] Watched video
-- [ ] **Demo executed**
-- [ ] Used git reset
-- [ ] Used git commit --amend
-- [ ] Used git revert
+- [x] Watched video
+- [x] **Demo executed**
+- [x] Used git reset
+- [x] Used git commit --amend
+- [x] Used git revert
 
 ---
 <a id="15-merging-branches"></a>
 ## 15 - Merging Branches
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 <a id="16-git-for-devops"></a>
 ## 16 - Git for DevOps
-- [ ] Watched video
+- [x] Watched video
+
