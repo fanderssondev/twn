@@ -19,13 +19,13 @@ By TechWorld with Nana
 ---
 <a id="01-introduction-to-build--package-manager-tools"></a>
 ## 01 - Introduction to Build & Package Manager Tools
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="02-install-build-tools"></a>
 ## 02 - Install Build Tools
-- [ ] Watched video
-- [ ] Go to Windows or MacOS/Unix Installation Help
+- [x] Watched video
+- [x] Go to Windows or MacOS/Unix Installation Help
 
 ### Useful Links:
 - Maven: https://maven.apache.org/install.html
@@ -35,8 +35,8 @@ By TechWorld with Nana
 ---
 <a id="03-windows-installation-help---part-1--2"></a>
 ## 03 - Windows Installation Help - Part 1 & 2
-- [ ] Watched video
-- [ ] Installed everything
+- [x] Watched video
+- [x] Installed everything
 
 ### Useful Links:
 - Java on Windows: https://docs.oracle.com/en/java/javase/17/install/installation-jdk-microsoft-windows-platforms.html#GUID-0DB9580B-1ACA-4C13-8A83-9780BEDF30BB
@@ -44,8 +44,8 @@ By TechWorld with Nana
 ---
 <a id="04-macosunix-installation-help"></a>
 ## 04 - MacOS/Unix Installation Help
-- [ ] Watched video
-- [ ] Installed everything
+- [x] Watched video
+- [x] Installed everything
 
 ### Useful Links:
 - Homebrew Package Manager: https://brew.sh/
@@ -54,45 +54,45 @@ By TechWorld with Nana
 ---
 <a id="05-build-artifact"></a>
 ## 05 - Build Artifact
-- [ ] Watched video
-- [ ] Demo executed
-- [ ] Built Java Gradle Project
-- [ ] Built Java Maven Project
+- [x] Watched video
+- [x] Demo executed
+- [x] Built Java Gradle Project
+- [x] Built Java Maven Project
 
 ---
 <a id="06-build-tools-for-development"></a>
 ## 06 - Build Tools for Development
-- [ ] Watched video
-- [ ] Demo executed - add a new dependency to project
+- [x] Watched video
+- [x] Demo executed - add a new dependency to project
 
 ---
 <a id="07-run-the-application"></a>
 ## 07 - Run the application
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 <a id="08-build-javascript-applications"></a>
 ## 08 - Build JavaScript applications
-- [ ] Watched video
-- [ ] Demo executed
+- [x] Watched video
+- [x] Demo executed
 
 ---
 <a id="09-other-programming-languages"></a>
 ## 09 - Other Programming Languages
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="10-publish-artifact"></a>
 ## 10 - Publish artifact
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="11-build-tools--docker"></a>
 ## 11 - Build Tools & Docker
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="12-build-tools--devops"></a>
 ## 12 - Build Tools & DevOps
-- [ ] Watched video
+- [x] Watched video
