@@ -2,31 +2,31 @@
 By TechWorld with Nana
 
 ## Video Overview
-- ★ [What is a Container?](#what-is-a-container)
-- ★ [Container vs Image](#container-vs-image)
-- ★ [Docker (Container) vs Virtual Machine](#docker-vs-virtual-machine)
-- ★ [Docker Architecture and its components](#docker-components)
-- ★ [Main Docker Commands](#main-docker-commands)
-- ★ [Debug Commands](#debug-commands)
-- ★ [Demo Project: Overview](#demo-project-overview)
-- ★ [Demo Project: Developing with Docker](#demo-project-developing-with-docker)
-- ★ [Demo Project: Docker Compose - Running multiple services](#demo-project-docker-compose-running-multiple-services)
-- ★ [Demo Project: Dockerfile - Building our own Docker Image](#demo-project-dockerfile-building-our-own-docker-image)
-- ★ [Demo Project: Private Docker Repository - Pushing our Docker Image into a private Registry on Nexus](#demo-project-private-docker-repository)
-- ★ [Demo Project: Deploying our containerized application](#demo-project-deploying-our-containerized-application)
-- ★ [Docker Volumes - Persist data in Docker](#docker-volumes-persist-data-in-docker)
-- ★ [Demo Project: Volumes - Configuring persistence for our application](#demo-project-volumes-configuring-persistence)
-- ★ [Demo Project: Run Nexus as Docker container](#demo-project-run-nexus-as-docker-container)
-- ★ [Docker Best Practices](#docker-best-practices)
+- ★ [01 - What is a Container?](#what-is-a-container)
+- ★ [02 - Container vs Image](#container-vs-image)
+- ★ [03 - Docker (Container) vs Virtual Machine](#docker-vs-virtual-machine)
+- ★ [04 - Docker Architecture and its components](#docker-components)
+- ★ [05 - Main Docker Commands](#main-docker-commands)
+- ★ [06 - Debug Commands](#debug-commands)
+- ★ [07 - Demo Project: Overview](#demo-project-overview)
+- ★ [08 - Demo Project: Developing with Docker](#demo-project-developing-with-docker)
+- ★ [09 - Demo Project: Docker Compose - Running multiple services](#demo-project-docker-compose-running-multiple-services)
+- ★ [10 - Demo Project: Dockerfile - Building our own Docker Image](#demo-project-dockerfile-building-our-own-docker-image)
+- ★ [11 - Demo Project: Private Docker Repository - Pushing our Docker Image into a private Registry on Nexus](#demo-project-private-docker-repository)
+- ★ [12 - Demo Project: Deploying our containerized application](#demo-project-deploying-our-containerized-application)
+- ★ [13 - Docker Volumes - Persist data in Docker](#docker-volumes-persist-data-in-docker)
+- ★ [14 - Demo Project: Volumes - Configuring persistence for our application](#demo-project-volumes-configuring-persistence)
+- ★ [15 - Demo Project: Run Nexus as Docker container](#demo-project-run-nexus-as-docker-container)
+- ★ [16 - Docker Best Practices](#docker-best-practices)
 
 ---
 <a id="what-is-a-container"></a>
-## What is a Container?
+## 01 - What is a Container?
 - [ ] Watched video
 
 ---
 <a id="container-vs-image"></a>
-## Container vs Image
+## 02 - Container vs Image
 - [ ] Watched video
 - [ ] Installed Docker on your local machine
 - [ ] Demo executed - run two different Versions of Postgres Docker Images
@@ -38,17 +38,17 @@ By TechWorld with Nana
 
 ---
 <a id="docker-vs-virtual-machine"></a>
-## Docker vs Virtual Machine
+## 03 - Docker vs Virtual Machine
 - [ ] Watched video
 
 ---
 <a id="docker-components"></a>
-## Docker components
+## 04 - Docker components
 - [ ] Watched video
 
 ---
 <a id="main-docker-commands"></a>
-## Main Docker Commands
+## 05 - Main Docker Commands
 - [ ] Watched video
 - [ ] Demo executed
 - [ ] Pull Redis Docker Image `docker pull`
@@ -66,7 +66,7 @@ By TechWorld with Nana
 
 ---
 <a id="debug-commands"></a>
-## Debug Commands
+## 06 - Debug Commands
 - [ ] Watched video
 - [ ] Demo executed
 - [ ] See logs of container `docker logs`
@@ -74,12 +74,12 @@ By TechWorld with Nana
 
 ---
 <a id="demo-project-overview"></a>
-## Demo Project: Overview
+## 07 - Demo Project: Overview
 - [ ] Watched video
 
 ---
 <a id="demo-project-developing-with-docker"></a>
-## Demo Project: Developing with Docker
+## 08 - Demo Project: Developing with Docker
 - [ ] Watched video
 - [ ] Demo executed
 - [ ] Git cloned example git project or created new one
@@ -98,7 +98,7 @@ By TechWorld with Nana
 
 ---
 <a id="demo-project-docker-compose-running-multiple-services"></a>
-## Demo Project: Docker Compose - Running multiple services
+## 09 - Demo Project: Docker Compose - Running multiple services
 - [ ] Watched video
 - [ ] Demo executed
 - [ ] Installed Docker Compose (should already be installed with Docker Desktop)
@@ -111,7 +111,7 @@ By TechWorld with Nana
 
 ---
 <a id="demo-project-dockerfile-building-our-own-docker-image"></a>
-## Demo Project: Dockerfile - Building our own Docker Image
+## 10 - Demo Project: Dockerfile - Building our own Docker Image
 - [ ] Watched video
 - [ ] Demo executed
 - [ ] Created Dockerfile for our Node application (the name of the file MUST be Dockerfile!)
@@ -119,7 +119,7 @@ By TechWorld with Nana
 - [ ] Started newly created Docker Image
 
 <a id="demo-project-private-docker-repository"></a>
-## Demo Project: Private Docker Repository - Push/Pull to Nexus Repository
+## 11 - Demo Project: Private Docker Repository - Push/Pull to Nexus Repository
 - [ ] Watched video
 - [ ] Demo executed
 - [ ] Created a Docker Repository on Nexus
@@ -134,7 +134,7 @@ By TechWorld with Nana
 
 ---
 <a id="demo-project-deploying-our-containerized-application"></a>
-## Demo Project: Deploying our containerized application
+## 12 - Demo Project: Deploying our containerized application
 - [ ] Watched video
 - [ ] Demo executed
 - [ ] Added our example application to Docker compose file
@@ -143,17 +143,17 @@ By TechWorld with Nana
 
 ---
 <a id="docker-volumes-persist-data-in-docker"></a>
-## Docker Volumes - Persist data in Docker
+## 13 - Docker Volumes - Persist data in Docker
 - [ ] Watched video
 
 <a id="demo-project-volumes-configuring-persistence"></a>
-## Demo Project: Volumes - Configuring persistence for our application
+## 14 - Demo Project: Volumes - Configuring persistence for our application
 - [ ] Watched video
 - [ ] Demo executed - defined a Named Volume in Docker Compose File
 
 ---
 <a id="demo-project-run-nexus-as-docker-container"></a>
-## Demo: Project Run Nexus as Docker Container on DigitalOcean Droplet
+## 15 - Demo: Project Run Nexus as Docker Container on DigitalOcean Droplet
 - [ ] Watched video
 - [ ] Demo executed
 - [ ] Created a new Droplet
@@ -168,9 +168,8 @@ By TechWorld with Nana
 
 ---
 <a id="docker-best-practices"></a>
-## Official Resources
+## 16 - Official Resources
 - Best practices for writing Dockerfiles: https://docs.docker.com/build/building/best-practices/
 - Docker development best practices: https://docs.docker.com/develop/dev-best-practices/
 - Tips for Caching, reducing Image size, maintainability, reproducibility: https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices/
 - Tip: Enforce Dockerfile best practices automatically by using a static code analysis tool (e.g. https://github.com/hadolint/hadolint )
-
