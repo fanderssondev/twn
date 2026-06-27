@@ -22,16 +22,15 @@ By TechWorld with Nana
 ---
 <a id="what-is-a-container"></a>
 ## 01 - What is a Container?
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="container-vs-image"></a>
 ## 02 - Container vs Image
-- [ ] Watched video
-- [ ] Installed Docker on your local machine
-- [ ] Demo executed - run two different Versions of Postgres Docker Images
+- [x] Watched video
+- [x] Installed Docker on your local machine
+- [x] Demo executed - run two different Versions of Postgres Docker Images
 
----
 ### Useful Links:
 - Docker Installation Guides for different OS: https://docs.docker.com/get-started/get-docker/
 - Postgres Docker Images: https://hub.docker.com/_/postgres
@@ -39,27 +38,27 @@ By TechWorld with Nana
 ---
 <a id="docker-vs-virtual-machine"></a>
 ## 03 - Docker vs Virtual Machine
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="docker-components"></a>
 ## 04 - Docker components
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="main-docker-commands"></a>
 ## 05 - Main Docker Commands
-- [ ] Watched video
-- [ ] Demo executed
-- [ ] Pull Redis Docker Image `docker pull`
-- [ ] List existing Docker Images `docker images`
-- [ ] Run Container `docker run`
-- [ ] Run Container in a detached mode `docker run -d`
-- [ ] List running containers `docker ps`
-- [ ] Start container `docker start`
-- [ ] Stop container `docker stop`
-- [ ] List all containers - running and stopped ones `docker ps -a`
-- [ ] Bind port `docker run -p`
+- [x] Watched video
+- [x] Demo executed
+- [x] Pull Redis Docker Image `docker pull`
+- [x] List existing Docker Images `docker images`
+- [x] Run Container `docker run`
+- [x] Run Container in a detached mode `docker run -d`
+- [x] List running containers `docker ps`
+- [x] Start container `docker start`
+- [x] Stop container `docker stop`
+- [x] List all containers - running and stopped ones `docker ps -a`
+- [x] Bind port `docker run -p`
 
 ### Useful Links:
 - Redis Docker Images: https://hub.docker.com/_/redis
@@ -67,31 +66,30 @@ By TechWorld with Nana
 ---
 <a id="debug-commands"></a>
 ## 06 - Debug Commands
-- [ ] Watched video
-- [ ] Demo executed
-- [ ] See logs of container `docker logs`
-- [ ] Get interactive terminal of running container for troubleshooting `docker exec -it`
+- [x] Watched video
+- [x] Demo executed
+- [x] See logs of container `docker logs`
+- [x] Get interactive terminal of running container for troubleshooting `docker exec -it`
 
 ---
 <a id="demo-project-overview"></a>
 ## 07 - Demo Project: Overview
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="demo-project-developing-with-docker"></a>
 ## 08 - Demo Project: Developing with Docker
-- [ ] Watched video
-- [ ] Demo executed
-- [ ] Git cloned example git project or created new one
-- [ ] Pulled mongodb image
-- [ ] Pulled mongo-express image
-- [ ] Created mongo-network
-- [ ] Started mongodb container with all necessary parameters
-- [ ] Started mongo-express container with all necessary parameters
-- [ ] Created new database via Mongo Express UI
-- [ ] Configured Nodejs application code to connect with database
+- [x] Watched video
+- [x] Demo executed
+- [x] Git cloned example git project or created new one
+- [x] Pulled mongodb image
+- [x] Pulled mongo-express image
+- [x] Created mongo-network
+- [x] Started mongodb container with all necessary parameters
+- [x] Started mongo-express container with all necessary parameters
+- [x] Created new database via Mongo Express UI
+- [x] Configured Nodejs application code to connect with database
 
----
 ### Useful Links:
 - MongoDB Docker Image: https://hub.docker.com/_/mongo
 - Mongo Express Docker Image: https://hub.docker.com/_/mongo-express
@@ -99,47 +97,47 @@ By TechWorld with Nana
 ---
 <a id="demo-project-docker-compose-running-multiple-services"></a>
 ## 09 - Demo Project: Docker Compose - Running multiple services
-- [ ] Watched video
-- [ ] Demo executed
-- [ ] Installed Docker Compose (should already be installed with Docker Desktop)
-- [ ] Created a docker-compose file to start mongodb and mongo express containers instead of using docker run
-- [ ] Created new database
+- [x] Watched video
+- [x] Demo executed
+- [x] Installed Docker Compose (should already be installed with Docker Desktop)
+- [x] Created a docker-compose file to start mongodb and mongo express containers instead of using docker run
+- [x] Created new database
 
----
 ### Useful Links:
 - Docker Compose Installation Guides for different OS: https://docs.docker.com/compose/install/
 
 ---
 <a id="demo-project-dockerfile-building-our-own-docker-image"></a>
 ## 10 - Demo Project: Dockerfile - Building our own Docker Image
-- [ ] Watched video
-- [ ] Demo executed
-- [ ] Created Dockerfile for our Node application (the name of the file MUST be Dockerfile!)
-- [ ] Built Docker Image from our Dockerfile and tag it
-- [ ] Started newly created Docker Image
+- [x] Watched video
+- [x] Demo executed
+- [x] Created Dockerfile for our Node application (the name of the file MUST be Dockerfile!)
+- [x] Built Docker Image from our Dockerfile and tag it
+- [x] Started newly created Docker Image
 
+---
 <a id="demo-project-private-docker-repository"></a>
 ## 11 - Demo Project: Private Docker Repository - Push/Pull to Nexus Repository
-- [ ] Watched video
-- [ ] Demo executed
-- [ ] Created a Docker Repository on Nexus
-- [ ] Created a User Role for Docker Repository on Nexus
-- [ ] Configured Repository Connector (port 8083)
-- [ ] Configured Firewall Rule to open port 8083 on Droplet
-- [ ] Configured Token Issuing on Nexus (Realm - activate Docker Bearer Token Realm)
-- [ ] Configured insecure registries for Nexus IP and Port in Docker Desktop (Docker Engine Tab)
-- [ ] Logged in to Nexus Docker Repo (docker login)
-- [ ] Pushed Docker Image to Nexus Repo
-- [ ] Fetched Docker Image from Nexus Repo
+- [x] Watched video
+- [x] Demo executed
+- [x] Created a Docker Repository on Nexus
+- [x] Created a User Role for Docker Repository on Nexus
+- [x] Configured Repository Connector (port 8083)
+- [x] Configured Firewall Rule to open port 8083 on Droplet
+- [x] Configured Token Issuing on Nexus (Realm - activate Docker Bearer Token Realm)
+- [x] Configured insecure registries for Nexus IP and Port in Docker Desktop (Docker Engine Tab)
+- [x] Logged in to Nexus Docker Repo (docker login)
+- [x] Pushed Docker Image to Nexus Repo
+- [x] Fetched Docker Image from Nexus Repo
 
 ---
 <a id="demo-project-deploying-our-containerized-application"></a>
 ## 12 - Demo Project: Deploying our containerized application
-- [ ] Watched video
-- [ ] Demo executed
-- [ ] Added our example application to Docker compose file
-- [ ] Changed mongodb server url from localhost to mongodb service name in Node Code
-- [ ] Started docker containers with docker-compose
+- [x] Watched video
+- [x] Demo executed
+- [x] Added our example application to Docker compose file
+- [x] Changed mongodb server url from localhost to mongodb service name in Node Code
+- [x] Started docker containers with docker-compose
 
 ---
 <a id="docker-volumes-persist-data-in-docker"></a>
@@ -173,3 +171,4 @@ By TechWorld with Nana
 - Docker development best practices: https://docs.docker.com/develop/dev-best-practices/
 - Tips for Caching, reducing Image size, maintainability, reproducibility: https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices/
 - Tip: Enforce Dockerfile best practices automatically by using a static code analysis tool (e.g. https://github.com/hadolint/hadolint )
+
