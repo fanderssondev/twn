@@ -17,7 +17,7 @@ By TechWorld with Nana
 - ★ [13 - Docker Volumes - Persist data in Docker](#docker-volumes-persist-data-in-docker)
 - ★ [14 - Demo Project: Volumes - Configuring persistence for our application](#demo-project-volumes-configuring-persistence)
 - ★ [15 - Demo Project: Run Nexus as Docker container](#demo-project-run-nexus-as-docker-container)
-- ★ [16 - Docker Best Practices](#docker-best-practices)
+- ★ [Docker Best Practices](#docker-best-practices)
 
 ---
 <a id="what-is-a-container"></a>
@@ -142,31 +142,32 @@ By TechWorld with Nana
 ---
 <a id="docker-volumes-persist-data-in-docker"></a>
 ## 13 - Docker Volumes - Persist data in Docker
-- [ ] Watched video
+- [x] Watched video
 
+---
 <a id="demo-project-volumes-configuring-persistence"></a>
 ## 14 - Demo Project: Volumes - Configuring persistence for our application
-- [ ] Watched video
-- [ ] Demo executed - defined a Named Volume in Docker Compose File
+- [x] Watched video
+- [x] Demo executed - defined a Named Volume in Docker Compose File
 
 ---
 <a id="demo-project-run-nexus-as-docker-container"></a>
 ## 15 - Demo: Project Run Nexus as Docker Container on DigitalOcean Droplet
-- [ ] Watched video
-- [ ] Demo executed
-- [ ] Created a new Droplet
-- [ ] Attached Droplet to existing Firewall
-- [ ] Installed Docker on Droplet
-- [ ] Created docker volume to persist Nexus data
-- [ ] Ran Nexus as Docker container with necessary parameters
-- [ ] Accessed Nexus in browser
+- [x] Watched video
+- [x] Demo executed
+- [x] Created a new Droplet
+- [x] Attached Droplet to existing Firewall
+- [x] Installed Docker on Droplet
+- [x] Created docker volume to persist Nexus data
+- [x] Ran Nexus as Docker container with necessary parameters
+- [x] Accessed Nexus in browser
 
 ### Useful Links:
 - Nexus Docker Image: https://hub.docker.com/r/sonatype/nexus3
 
 ---
 <a id="docker-best-practices"></a>
-## 16 - Official Resources
+## Official Resources
 - Best practices for writing Dockerfiles: https://docs.docker.com/build/building/best-practices/
 - Docker development best practices: https://docs.docker.com/develop/dev-best-practices/
 - Tips for Caching, reducing Image size, maintainability, reproducibility: https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices/
