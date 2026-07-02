@@ -23,18 +23,18 @@ By TechWorld with Nana
 ---
 <a id="introduction-to-build-automation"></a>
 ## 01 - Introduction to Build Automation
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="install-jenkins"></a>
 ## 02 - Install Jenkins
-- [ ] Watched video
-- [ ] **Demo executed**
-  - [ ] Created a Server (Droplet) on DigitalOcean
-  - [ ] Configured Firewall Rules to open port 22 and port 8080 for our new server
-  - [ ] Installed Docker on DigitalOcean Droplet
-  - [ ] Started Jenkins Docker container with named volume
-  - [ ] Initialized Jenkins
+- [x] Watched video
+- [x] **Demo executed**
+  - [x] Created a Server (Droplet) on DigitalOcean
+  - [x] Configured Firewall Rules to open port 22 and port 8080 for our new server
+  - [x] Installed Docker on DigitalOcean Droplet
+  - [x] Started Jenkins Docker container with named volume
+  - [x] Initialized Jenkins
 
 ### Useful Links:
 - Jenkins Docker Image: https://hub.docker.com/r/jenkins/jenkins
@@ -51,15 +51,15 @@ cat /var/snap/docker/common/var-lib-docker/volumes/jenkins_home/_data/secrets/in
 ---
 <a id="jenkins-ui-tour"></a>
 ## 03 - Jenkins UI Tour
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="install-build-tools"></a>
 ## 04 - Install Build Tools
-- [ ] Watched video
-- [ ] **Demo executed**
-  - [ ] Configured Plugin for Maven
-  - [ ] Installed npm and node in Jenkins container
+- [x] Watched video
+- [x] **Demo executed**
+  - [x] Configured Plugin for Maven
+  - [x] Installed npm and node in Jenkins container
 
 ### Useful Links:
 - Node Installation for Linux distributions: https://github.com/nodesource/distributions
@@ -87,10 +87,10 @@ npm -v
 ---
 <a id="jenkins-basics-demo"></a>
 ## 05 - Jenkins Basics Demo
-- [ ] Watched video
-- [ ] **Demo executed - create a simple Freestyle Job**
-  - [ ] Configured Git Repository to checkout the code from
-  - [ ] Configured Job to run tests and build Java Application
+- [x] Watched video
+- [x] **Demo executed - create a simple Freestyle Job**
+  - [x] Configured Git Repository to checkout the code from
+  - [x] Configured Job to run tests and build Java Application
 
 ---
 <a id="docker-in-jenkins"></a>
