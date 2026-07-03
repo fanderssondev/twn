@@ -95,21 +95,21 @@ npm -v
 ---
 <a id="docker-in-jenkins"></a>
 ## 06 - Docker in Jenkins
-- [ ] Watched video
-- [ ] **Demo executed - push Image to DockerHub Repository**
-  - [ ] Made Docker available in Jenkins container (mount docker runtime inside container as a volume)
-  - [ ] Fixed permissions on docker.sock
-  - [ ] Configured Job to build Docker Image
-  - [ ] Configured Job to push Image to DockerHub
-    - [ ] Prerequisite: Account on DockerHub
-    - [ ] Created a repository on DockerHub
-    - [ ] Created Credentials for DockerHub in Jenkins UI
-    - [ ] Tag Docker Image with your DockerHub repository, login and push to repository
-- [ ] **Demo executed - push Image to Nexus Repository**
-  - [ ] Configured "insecure-registries" on Droplet server (daemon.json file)
-  - [ ] Fixed permission for docker.sock again after restart of Jenkins container
-  - [ ] Created Credentials for Nexus in Jenkins UI
-  - [ ] Tag Docker Image with your Nexus host and repository, login and push to repository
+- [x] Watched video
+- [x] **Demo executed - push Image to DockerHub Repository**
+  - [x] Made Docker available in Jenkins container (mount docker runtime inside container as a volume)
+  - [x] Fixed permissions on docker.sock
+  - [x] Configured Job to build Docker Image
+  - [x] Configured Job to push Image to DockerHub
+    - [x] Prerequisite: Account on DockerHub
+    - [x] Created a repository on DockerHub
+    - [x] Created Credentials for DockerHub in Jenkins UI
+    - [x] Tag Docker Image with your DockerHub repository, login and push to repository
+- [x] **Demo executed - push Image to Nexus Repository**
+  - [x] Configured "insecure-registries" on Droplet server (daemon.json file)
+  - [x] Fixed permission for docker.sock again after restart of Jenkins container
+  - [x] Created Credentials for Nexus in Jenkins UI
+  - [x] Tag Docker Image with your Nexus host and repository, login and push to repository
 
 ### Useful Commands:
 ```bash
