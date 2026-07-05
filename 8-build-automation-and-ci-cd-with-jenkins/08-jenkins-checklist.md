@@ -143,7 +143,7 @@ chmod 666 /var/run/docker.sock
 ---
 <a id="freestyle-to-pipeline-job"></a>
 ## 07 - Freestyle to Pipeline Job
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="introduction-to-pipeline-job"></a>
