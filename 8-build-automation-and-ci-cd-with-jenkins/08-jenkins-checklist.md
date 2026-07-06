@@ -148,10 +148,10 @@ chmod 666 /var/run/docker.sock
 ---
 <a id="introduction-to-pipeline-job"></a>
 ## 08 - Introduction to Pipeline Job
-- [ ] Watched video
-- [ ] **Demo executed - create a basic Pipeline Job**
-  - [ ] Configured Git Repository
-  - [ ] Created a valid Jenkinsfile with required field
+- [x] Watched video
+- [x] **Demo executed - create a basic Pipeline Job**
+  - [x] Configured Git Repository
+  - [x] Created a valid Jenkinsfile with required field
 
 ---
 <a id="jenkinsfile-syntax"></a>
