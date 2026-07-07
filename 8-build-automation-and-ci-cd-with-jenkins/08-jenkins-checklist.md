@@ -156,15 +156,15 @@ chmod 666 /var/run/docker.sock
 ---
 <a id="jenkinsfile-syntax"></a>
 ## 09 - Jenkinsfile Syntax
-- [ ] Watched video
-- [ ] **Demo executed**
-  - [ ] Used Post attribute
-  - [ ] Defined a Condition
-  - [ ] Used an environment variable
-  - [ ] Used Tools Attribute
-  - [ ] Used a Parameter
-  - [ ] Used an external Groovy Script
-  - [ ] Used an Input Parameter
+- [x] Watched video
+- [x] **Demo executed**
+  - [x] Used Post attribute
+  - [x] Defined a Condition
+  - [x] Used an environment variable
+  - [x] Used Tools Attribute
+  - [x] Used a Parameter
+  - [x] Used an external Groovy Script
+  - [x] Used an Input Parameter
 
 ### Useful Links:
 - List available environment variables: `<your-ip-of-jenkins>:8080//env-vars.html`
@@ -172,18 +172,18 @@ chmod 666 /var/run/docker.sock
 ---
 <a id="create-full-pipeline"></a>
 ## 10 - Create full Pipeline
-- [ ] Watched video
-- [ ] **Demo executed - create a full Pipeline Job**
-  - [ ] Build Jar
-  - [ ] Build Docker Image
-  - [ ] Push to private Repository DockerHub
+- [x] Watched video
+- [x] **Demo executed - create a full Pipeline Job**
+  - [x] Build Jar
+  - [x] Build Docker Image
+  - [x] Push to private Repository DockerHub
 
 ---
 <a id="introduction-to-multibranch-job"></a>
 ## 11 - Introduction to Multibranch Job
-- [ ] Watched video
-- [ ] **Demo executed**
-  - [ ] Added branch based logic in Jenkinsfile
+- [x] Watched video
+- [x] **Demo executed**
+  - [x] Added branch based logic in Jenkinsfile
 
 ---
 <a id="wrap-up-jenkins-jobs"></a>
