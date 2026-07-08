@@ -188,12 +188,12 @@ chmod 666 /var/run/docker.sock
 ---
 <a id="wrap-up-jenkins-jobs"></a>
 ## 12 - Wrap Up Jenkins Jobs
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="credentials-in-jenkins"></a>
 ## 13 - Credentials in Jenkins
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="jenkins-shared-library"></a>
