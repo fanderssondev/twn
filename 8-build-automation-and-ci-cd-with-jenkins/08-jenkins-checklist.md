@@ -198,14 +198,14 @@ chmod 666 /var/run/docker.sock
 ---
 <a id="jenkins-shared-library"></a>
 ## 14 - Jenkins Shared Library
-- [ ] Watched video
-- [ ] **Demo executed**
-  - [ ] Created Shared Library Project/Repository
-  - [ ] Made Shared Library globally available in Jenkins
-  - [ ] Used Shared Library in Jenkinsfile
-  - [ ] Used Parameters in Shared Library
-  - [ ] Extracted logic into Groovy Classes
-  - [ ] Define Shared Library in Jenkinsfile directly (project scoped)
+- [x] Watched video
+- [x] **Demo executed**
+  - [x] Created Shared Library Project/Repository
+  - [x] Made Shared Library globally available in Jenkins
+  - [x] Used Shared Library in Jenkinsfile
+  - [x] Used Parameters in Shared Library
+  - [x] Extracted logic into Groovy Classes
+  - [x] Define Shared Library in Jenkinsfile directly (project scoped)
 
 ---
 <a id="trigger-jenkins-jobs-webhooks"></a>
