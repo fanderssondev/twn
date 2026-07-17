@@ -216,12 +216,12 @@ chmod 666 /var/run/docker.sock
 ---
 <a id="versioning-your-application-part-1"></a>
 ## 16 - Versioning your application - Part I
-- [ ] Watched video
-- [ ] **Demo executed: Increment version locally with maven build tool**
-- [ ] **Demo executed: Increment version in Jenkins Pipeline**
-  - [ ] Configured Jenkinsfile to increment version
-  - [ ] Adjusted Dockerfile file
-  - [ ] Executed Jenkins Pipeline
+- [x] Watched video
+- [x] **Demo executed: Increment version locally with maven build tool**
+- [x] **Demo executed: Increment version in Jenkins Pipeline**
+  - [x] Configured Jenkinsfile to increment version
+  - [x] Adjusted Dockerfile file
+  - [x] Executed Jenkins Pipeline
 
 ### Useful Links:
 - Maven Build-Helper Plugin: https://www.mojohaus.org/build-helper-maven-plugin/parse-version-mojo.html
