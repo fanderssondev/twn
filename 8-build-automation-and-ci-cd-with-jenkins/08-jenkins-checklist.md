@@ -229,7 +229,7 @@ chmod 666 /var/run/docker.sock
 ---
 <a id="versioning-your-application-part-2"></a>
 ## 17 - Versioning your application - Part II
-- [ ] Watched video
-- [ ] **Demo executed: Commit version upgrade from Jenkins to Git**
-- [ ] **Demo executed: Ignore Jenkins Commit from Triggering Pipeline**
+- [x] Watched video
+- [x] **Demo executed: Commit version upgrade from Jenkins to Git**
+- [x] **Demo executed: Ignore Jenkins Commit from Triggering Pipeline**
 
