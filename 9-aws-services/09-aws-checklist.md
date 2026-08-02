@@ -57,7 +57,7 @@ By TechWorld with Nana
 ---
 <a id="regions-and-availability-zones"></a>
 ## 04 - Regions and Availability Zones
-- [ ] Watched video
+- [x] Watched video
 
 ### Useful Links:
 - Amazon's Regions & Availability Zones: https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
@@ -65,12 +65,12 @@ By TechWorld with Nana
 ---
 <a id="virtual-private-cloud-vpc"></a>
 ## 05 - Virtual Private Cloud - VPC explained
-- [ ] Watched video
+- [x] Watched video
 
 ---
 <a id="classless-inter-domain-routing-cidr"></a>
 ## 06 - Classless Inter-Domain Routing - CIDR explained
-- [ ] Watched video
+- [x] Watched video
 
 ### Useful Links:
 - IP Calculator: http://jodies.de/ipcalc?host=10.0.0.0&mask1=1&mask2=
