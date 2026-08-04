@@ -79,12 +79,12 @@ By TechWorld with Nana
 ---
 <a id="introduction-to-amazon-ec2"></a>
 ## 07 - Introduction to Amazon Elastic Compute Cloud (EC2)
-- [ ] Watched video
-- [ ] **Demo executed - Deploy WebApp Container manually on EC2 Instance:**
-  - [ ] Stored Private Key in .ssh folder
-  - [ ] EC2 Instance created
-  - [ ] Built and pushed Docker Image to your private DockerHub
-  - [ ] Docker installed and run Docker Image
+- [x] Watched video
+- [x] **Demo executed - Deploy WebApp Container manually on EC2 Instance:**
+  - [x] Stored Private Key in .ssh folder
+  - [x] EC2 Instance created
+  - [x] Built and pushed Docker Image to your private DockerHub
+  - [x] Docker installed and run Docker Image
 
 ---
 <a id="aws-jenkins-part-1"></a>
